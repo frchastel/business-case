@@ -1,0 +1,41 @@
+.bg-image {
+    width: 1616px;
+}
+
+img {
+    height: 581px;
+    position: absolute;
+    margin: 214px;
+    padding: 0px;
+    top: -158px;
+    left: -214px;
+}
+
+li class {
+    height: 581px;
+    position: absolute;
+    margin: 214px;
+    padding: 0px;
+    top: -158px;
+    left: -214px;
+}
+
+.jumbotron{
+    height: 277px;
+    position: absolute;
+    margin: 125px;
+    padding: 0px;
+    top: 321px;
+    left: -192px;
+}
+
+#theImage { visibility: hidden; }
+
+#myImageId{
+    height: 342px;
+    position: absolute;
+    margin: 443px;
+    padding: 0px;
+    top: 398px;
+    left: 88px;
+}
